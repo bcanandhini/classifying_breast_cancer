@@ -1,4 +1,4 @@
-# classifying_breast_cancer
+# CLASSIFYING_BREAST_CANCER
 Breast cancer is a disease in which cells in the breast grow out of control. There are different kinds of breast cancer. The kind of breast cancer depends on which cells in the breast turn into cancer.
 This repository contains code of classifying breast cancer using machine learning algorithms.
 # DATASET DESCRIPTION
